@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prjSingletonRules", "prjSingletonRules\prjSingletonRules.csproj", "{D246900F-9C6A-4B80-A875-7E3EA8607D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonImplementation", "SingletonImplementation\SingletonImplementation.csproj", "{767AECB0-8825-4E0A-A085-226426D438DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D246900F-9C6A-4B80-A875-7E3EA8607D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D246900F-9C6A-4B80-A875-7E3EA8607D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D246900F-9C6A-4B80-A875-7E3EA8607D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D246900F-9C6A-4B80-A875-7E3EA8607D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767AECB0-8825-4E0A-A085-226426D438DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767AECB0-8825-4E0A-A085-226426D438DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767AECB0-8825-4E0A-A085-226426D438DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767AECB0-8825-4E0A-A085-226426D438DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {820BE85E-5C11-4C72-83D6-945F9B01023E}
+	EndGlobalSection
+EndGlobal
